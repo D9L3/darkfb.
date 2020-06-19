@@ -1,2 +1,0 @@
-# darkfb.
-Coba dulu
